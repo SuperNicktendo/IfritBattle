@@ -23,4 +23,4 @@ elif materia == materia3:
     elif materia == materia2:
         print("You have empowered Shiva and she unleashes Diamond Dust! Your party falls...")
     elif materia == materia3:
-        print("Your second Thunder attack stuns Ifrit, giving your party a chance to flee!")
+        print("Your second Thunder attack stuns Shiva, giving your party a chance to flee!")
